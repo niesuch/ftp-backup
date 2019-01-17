@@ -1,0 +1,16 @@
+{
+  "backup": {
+    "number": 3,
+    "dirs": [
+        "test"
+    ],
+	"local": 1,
+	"local_dir": ""
+  },
+  "ftp": {
+    "host": "host",
+    "username": "username",
+    "password": "password",
+	"dir": "backups"
+  }
+}
